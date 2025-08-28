@@ -10,8 +10,9 @@ Download the Resource
 Download the ZIP from GitHub (or your release link).
 Example:
 
-[https://github.com/YourUsername/esx_garage/archive/refs/heads/main.zip](https://github.com/0SammY00/-ESX-Garage-System)
-
+(https://github.com/0SammY00/-ESX-Garage-System)
+or
+https://0sammy0-dev-mwrp.tebex.io/package/7006478
 
 Extract the Files
 
